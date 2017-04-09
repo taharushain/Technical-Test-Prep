@@ -1,0 +1,13 @@
+4
+Batman, DC
+Wonder Woman, Justice League
+Superman, Marvel
+Thor, Independent
+7
+Batman
+Wonder Woman
+Wonder Woman
+Batman
+Superman
+Iron Man
+Batman
